@@ -1,0 +1,94 @@
+/* for all */
+* {
+	box-sizing: border-box;
+}
+
+.bg-color{
+	background-color:#eee8dd;
+}
+
+
+/* Head */
+.head{
+	padding:30px 0 15px 0;
+	margin: 0;	
+}
+
+
+/* Carousel */
+.carousel{
+	padding: 0 30px;
+}
+
+
+/* Concept */
+.decoration{
+	padding: 20px 0 15px 0;
+}
+
+.container-concept{
+	width: 55%;
+	padding: 0 0 30px 0;
+}
+
+
+/* Product */
+.container-product{
+	width: 100%;
+	padding: 0 15px;	
+}
+
+.product{
+	padding: 0;
+	background-color: #fff;
+}
+
+.product-text{
+	padding: 7px 0 25px 0;
+}
+
+
+.product-link{
+	color:gray;
+}
+
+.product-link:hover{
+	color: black;
+}
+
+
+/* Footer */
+.container-footer{
+	padding-top: 30px;
+	width: 100%;
+}
+
+/* Footer_Line */
+.footer-line{
+	width: 100%;
+}
+
+.line{
+	width: 80%;
+	height: 1px;
+	border-radius: 3px;
+	background-color:gray;
+	
+}
+
+/* Footer_Name */
+.name{
+	color: gray;
+	padding: 20px 0 30px 0;
+}
+
+/* Footer_Media */
+.footer-media{
+	padding: 0;
+}
+
+.media-object{
+	background-color:#eee8dd;
+	padding-bottom: 50px;
+}	
+
